@@ -1,0 +1,95 @@
+body {
+  width: 1000px;
+  position: relative;
+  margin: 0 auto;
+  background-color: #2e4c67;
+  box-shadow: 0 0 10px 0 #000;
+}
+
+.userbar{
+  position: relative;
+  align-content: center;
+  height: 25px;
+  width: 100%;
+  border-bottom: 2px solid #84bad7;
+}
+
+.leftColumn{
+  position: absolute;
+  left: 5px;
+}
+
+.rightColumn{
+  position: absolute;
+  right: 5px;
+  margin-top: 2.5px;
+}
+
+.barforads{
+  position: relative;
+  height: 180px;
+}
+
+#userheader{
+  position: relative;
+  width: 100%;
+  width: 1000px;
+  background-color: #9dd8f6;
+}
+
+#adsheader{
+  position: relative;
+  width: 100%;
+  width: 1000px;
+  background-color: #9dd8f6;
+}
+
+#navbarheader{
+  position: relative;
+  margin-top:-65px;
+  height: inherit;
+  width: 100%;
+  width: 1000px;
+  background-color: #9dd8f6;
+}
+
+#content{
+  margin-top:-45px;
+  border-top: 5px solid #84bad7;
+  position: relative;
+  height: auto;
+  width: 100%;
+  width: 1000px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+#footer{
+  border-top: 5px solid #84bad7;
+  align-content: center;
+  height: 85px;
+  width: 1000px;
+  background-color: #9dd8f6;
+}
+
+#logo{
+  margin-top:-65px;
+}
+
+#adlogo{
+  margin-left: 136px;
+  margin-top: 5px;
+}
+
+#footerlogo{
+  margin-left: 10px;
+}
+
+#footerimages{
+  margin-top: -10px;
+}
+
+#footerInfo{
+  margin-top: 8px;
+  margin-right: 20px;
+}
